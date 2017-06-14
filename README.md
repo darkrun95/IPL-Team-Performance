@@ -11,7 +11,7 @@ URL: https://www.kaggle.com/imrankhan17/t20matches
 ### Plot: 
 ![Plot](plot.jpg)
 
-### Plot understanding
+### Plot Summary
 The visualization addresses the question of how the performance of teams have varied in the IPL across 2008-2016. Two datasets were used for this purpose: 
 1. Dataset which had entries for all t20 series conducted from 2003 - 2017. Using this dataset the series_id was found for all IPL tournaments during the period. 
 2. The second dataset included entries for all t20 matches conducted from 2003 - 2017. Using the series_id's for IPL tournaments, all IPL matches were scrapped and loaded into the dataframe. 
